@@ -28,7 +28,7 @@ describe("searchTaxa", () => {
   it("scores a real ant path at family and species", () => {
     const family = scoreGuess(321673, 47336, data.nodes, data.scoring);
     const species = scoreGuess(321673, 321673, data.nodes, data.scoring);
-    expect(family.score).toBe(50);
+    expect(family.score).toBe(75);
     expect(family.checkpointRank).toBe("family");
     expect(species.score).toBe(100);
   });

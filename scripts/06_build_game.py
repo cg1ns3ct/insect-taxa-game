@@ -14,11 +14,11 @@ PUBLIC.mkdir(parents=True, exist_ok=True)
 
 INSECTA = 47158
 SCORING = {
-    "order": 15,
-    "suborder": 25,
-    "family": 50,
-    "subfamily": 65,
-    "genus": 80,
+    "order": 25,
+    "suborder": 50,
+    "family": 75,
+    "subfamily": 83,
+    "genus": 91,
     "species": 100,
 }
 SCORING_RANKS = set(SCORING)

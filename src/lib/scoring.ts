@@ -118,7 +118,7 @@ export function scoreGuess(
   }
 
   const baseScore = scoring[checkpoint.rank] ?? 0;
-  const raw = baseScore * (onTargetPath ? 1 : 0.9);
+  const raw = onTargetPath ? baseScore : Math.max(0, baseScore - 5);
   return {
     targetId,
     guessId,

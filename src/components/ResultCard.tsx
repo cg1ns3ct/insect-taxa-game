@@ -51,7 +51,7 @@ export function ResultCard({ data, result, onNext, isLast }: Props) {
           ) : checkpoint ? (
             <>
               你和正确答案在 <strong>{nodeLabel(checkpoint)}</strong>
-              （{rankLabel(checkpoint.rank)}）分开，错枝按 90% 计分。
+              （{rankLabel(checkpoint.rank)}）分开，错枝固定扣 5 分。
             </>
           ) : (
             <>
