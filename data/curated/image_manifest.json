@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:04:19.700200+00:00",
+  "generated_at": "2026-10-24T15:14:47.963889+00:00",
   "counts": {
     "records": 803,
     "manifest": 803,
@@ -3104,10 +3104,8 @@
       "taxon_id": 491973,
       "photo_id": 376183621,
       "path": "images/376183621.webp",
-      "width": 1024,
-      "height": 768,
       "bytes": 96526,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 492045,
@@ -5491,10 +5489,12 @@
     },
     {
       "taxon_id": 1593971,
-      "photo_id": 535434386,
-      "path": "images/535434386.webp",
-      "bytes": 21968,
-      "status": "cached"
+      "photo_id": 554771082,
+      "path": "images/554771082.webp",
+      "width": 1024,
+      "height": 773,
+      "bytes": 27940,
+      "status": "ok"
     },
     {
       "taxon_id": 1594925,

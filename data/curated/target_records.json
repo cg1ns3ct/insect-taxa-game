@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T15:04:07.869683+00:00",
+  "generated_at": "2026-10-24T15:14:38.300090+00:00",
   "counts": {
     "targets": 803,
     "records": 803,
-    "replaced": 9,
+    "replaced": 10,
     "owner_records": 85
   },
   "records": {
@@ -26171,29 +26171,30 @@
       "order_zh": "膜翅目",
       "owner": false,
       "source": "community",
-      "observation_id": 296278698,
-      "observation_url": "https://www.inaturalist.org/observations/296278698",
+      "observation_id": 307560503,
+      "observation_url": "https://www.inaturalist.org/observations/307560503",
       "quality_grade": "research",
-      "observed_on": "2025-07-02",
-      "place_guess": "Wuhan, CN-HU, CN",
-      "latitude": "31.0923558737",
-      "longitude": "114.2110043648",
-      "geoprivacy": "obscured",
-      "obscured": true,
-      "num_identification_agreements": 1,
-      "identifications_count": 1,
-      "photo_id": 535434386,
+      "observed_on": "2025-08-17",
+      "place_guess": "宝华山 中国江苏省镇江市句容市",
+      "latitude": "32.1308561712",
+      "longitude": "119.0908527998",
+      "geoprivacy": null,
+      "obscured": false,
+      "num_identification_agreements": 2,
+      "identifications_count": 2,
+      "photo_id": 554771082,
       "photo_license": "cc-by-nc",
-      "photo_attribution": "(c) Sakern | 永隔一江水, some rights reserved (CC BY-NC)",
-      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/535434386/square.jpg",
-      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535434386/large.jpg",
+      "photo_attribution": "(c) 王琰, some rights reserved (CC BY-NC)",
+      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/554771082/square.jpg",
+      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/554771082/large.jpg",
       "photo_width": 2048,
-      "photo_height": 1536,
+      "photo_height": 1546,
       "annotations": {
-        "life_stage": "adult",
+        "life_stage": null,
         "alive": null,
-        "evidence": "organism"
-      }
+        "evidence": null
+      },
+      "place_scope": "china"
     },
     "1594925": {
       "taxon_id": 1594925,
@@ -26892,7 +26893,7 @@
     {
       "taxon_id": 491973,
       "name": "Neope muirheadii",
-      "old_observation": 149326652,
+      "old_observation": 212870598,
       "new_observation": 212870598,
       "new_photo": 376183621,
       "place": "慈溪市五磊山风景区, 宁波市, 浙江省, CN",
@@ -26914,6 +26915,15 @@
       "new_observation": 380559335,
       "new_photo": 696241472,
       "place": "Zhuhai, CN-GD, CN",
+      "license": "cc-by-nc"
+    },
+    {
+      "taxon_id": 1593971,
+      "name": "Lasioglossum eidmanni",
+      "old_observation": 296278698,
+      "new_observation": 307560503,
+      "new_photo": 554771082,
+      "place": "宝华山 中国江苏省镇江市句容市",
       "license": "cc-by-nc"
     }
   ]

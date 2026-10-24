@@ -422,7 +422,7 @@
 | *Halictus aerarius* | 铜色隧蜂 | [115015464](https://www.inaturalist.org/observations/115015464) | (c) MUNENORI YAMAKAWA, some rights reserved (CC BY) |
 | *Harpegnathos venator* | 猎镰猛蚁 | [267177908](https://www.inaturalist.org/observations/267177908) | (c) 昆虫学liuye, some rights reserved (CC BY-NC) |
 | *Hemipepsis sinensis* | 中华半沟蛛蜂 | [397715859](https://www.inaturalist.org/observations/397715859) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
-| *Lasioglossum eidmanni* | 红腹淡脉隧蜂 | [296278698](https://www.inaturalist.org/observations/296278698) | (c) Sakern \| 永隔一江水, some rights reserved (CC BY-NC) |
+| *Lasioglossum eidmanni* | 红腹淡脉隧蜂 | [307560503](https://www.inaturalist.org/observations/307560503) | (c) 王琰, some rights reserved (CC BY-NC) |
 | *Lasioglossum politum* | 方头淡脉隧蜂 | [173937660](https://www.inaturalist.org/observations/173937660) | (c) Jinru Zhong, some rights reserved (CC BY-NC) |
 | *Liacos erythrosoma* | 红腹土蜂 | [44677823](https://www.inaturalist.org/observations/44677823) | no rights reserved |
 | *Liometopum sinense* | 中华光胸臭蚁 | [172793044](https://www.inaturalist.org/observations/172793044) | (c) Simba, some rights reserved (CC BY-NC) |

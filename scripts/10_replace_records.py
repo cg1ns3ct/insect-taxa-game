@@ -30,6 +30,7 @@ REPLACEMENTS = {
     491973: (212870598, 376183621),  # Neope muirheadii
     125574: (291119277, 523763435),  # Graphium cloanthus
     132104: (380559335, 696241472),  # Tenodera aridifolia
+    1593971: (307560503, 554771082),  # Lasioglossum eidmanni
 }
 
 CHINA_RE = re.compile(
