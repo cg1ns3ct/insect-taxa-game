@@ -16,9 +16,10 @@ export function ResultCard({ data, result, onNext, isLast }: Props) {
     : null;
   const target = data.nodes[String(result.targetId)];
   const guess = data.nodes[String(result.guessId)];
+  const lca = data.nodes[String(result.lcaId)];
   const targetIds = new Set(targetPath.map((n) => n.id));
 
-  let headline = "这道题先记下";
+  let headline = "方向不对";
   if (result.exact) headline = "种级全中";
   else if (result.onTargetPath && checkpoint)
     headline = `正确到${rankLabel(checkpoint.rank)}`;
@@ -47,11 +48,15 @@ export function ResultCard({ data, result, onNext, isLast }: Props) {
               <strong>{nodeLabel(checkpoint)}</strong>（
               {rankLabel(checkpoint.rank)}）。
             </>
+          ) : checkpoint ? (
+            <>
+              你和正确答案在 <strong>{nodeLabel(checkpoint)}</strong>
+              （{rankLabel(checkpoint.rank)}）分开，错枝按 90% 计分。
+            </>
           ) : (
             <>
-              你和正确答案在 <strong>{nodeLabel(checkpoint ?? undefined)}</strong>
-              （{checkpoint ? rankLabel(checkpoint.rank) : "未到计分阶元"}）分开，
-              错枝按 90% 计分。
+              你和正确答案在 <strong>{nodeLabel(lca)}</strong> 就分开了，
+              还没到目级计分点，本题 0 分。
             </>
           )}
         </p>
