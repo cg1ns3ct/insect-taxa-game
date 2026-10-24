@@ -26,6 +26,7 @@ REPLACEMENTS = {
     130335: (252227358, 451477880),  # Lexias pardalis
     67598: (145042248, 249074753),  # Solenopsis invicta
     98382: (199567670, 351960881),  # Copera marginipes
+    470244: (180281240, 313998636),  # Sisyra nikkoana
 }
 
 CHINA_RE = re.compile(

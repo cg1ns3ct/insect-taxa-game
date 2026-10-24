@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-10-24T13:50:51.663676+00:00",
+  "generated_at": "2026-10-24T14:36:50.796593+00:00",
   "counts": {
     "targets": 803,
     "records": 803,
-    "replaced": 5,
-    "owner_records": 85,
-    "contributor_records": 61
+    "replaced": 6,
+    "owner_records": 85
   },
   "records": {
     "47219": {
@@ -13771,29 +13770,30 @@
       "order_zh": "脉翅目",
       "owner": false,
       "source": "community",
-      "observation_id": 195080473,
-      "observation_url": "https://www.inaturalist.org/observations/195080473",
+      "observation_id": 180281240,
+      "observation_url": "https://www.inaturalist.org/observations/180281240",
       "quality_grade": "research",
-      "observed_on": "2023-06-21",
-      "place_guess": "Shanghai, Shanghai, CN",
-      "latitude": "30.8798111111",
-      "longitude": "121.8913027778",
+      "observed_on": "2023-08-25",
+      "place_guess": "西溪湿地东门北步道",
+      "latitude": "30.2782",
+      "longitude": "120.0822",
       "geoprivacy": null,
       "obscured": false,
       "num_identification_agreements": 1,
       "identifications_count": 1,
-      "photo_id": 343096655,
+      "photo_id": 313998636,
       "photo_license": "cc-by-nc",
-      "photo_attribution": "(c) zzc, some rights reserved (CC BY-NC)",
-      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/343096655/square.jpeg",
-      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343096655/large.jpeg",
-      "photo_width": 1536,
-      "photo_height": 2048,
+      "photo_attribution": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC)",
+      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/313998636/square.jpeg",
+      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313998636/large.jpeg",
+      "photo_width": 2048,
+      "photo_height": 1536,
       "annotations": {
         "life_stage": null,
         "alive": null,
         "evidence": null
-      }
+      },
+      "place_scope": "china"
     },
     "470321": {
       "taxon_id": 470321,
@@ -26837,7 +26837,7 @@
     {
       "taxon_id": 424957,
       "name": "Anthomyia illocata",
-      "old_observation": 47669245,
+      "old_observation": 295077526,
       "new_observation": 295077526,
       "new_photo": 531682794,
       "place": "Heze, CN-SD, CN",
@@ -26846,7 +26846,7 @@
     {
       "taxon_id": 146737,
       "name": "Velarifictorus micado",
-      "old_observation": 135314542,
+      "old_observation": 88716044,
       "new_observation": 88716044,
       "new_photo": 146403147,
       "place": "深圳金龟村",
@@ -26855,7 +26855,7 @@
     {
       "taxon_id": 130335,
       "name": "Lexias pardalis",
-      "old_observation": 75388019,
+      "old_observation": 252227358,
       "new_observation": 252227358,
       "new_photo": 451477880,
       "place": "中国云南省西双版纳傣族自治州勐腊县",
@@ -26864,7 +26864,7 @@
     {
       "taxon_id": 67598,
       "name": "Solenopsis invicta",
-      "old_observation": 388638084,
+      "old_observation": 145042248,
       "new_observation": 145042248,
       "new_photo": 249074753,
       "place": "赣南医学院(黄金校区), 赣州市, 江西省, CN",
@@ -26873,10 +26873,19 @@
     {
       "taxon_id": 98382,
       "name": "Copera marginipes",
-      "old_observation": 142052871,
+      "old_observation": 199567670,
       "new_observation": 199567670,
       "new_photo": 351960881,
       "place": "东湖公园",
+      "license": "cc-by-nc"
+    },
+    {
+      "taxon_id": 470244,
+      "name": "Sisyra nikkoana",
+      "old_observation": 195080473,
+      "new_observation": 180281240,
+      "new_photo": 313998636,
+      "place": "西溪湿地东门北步道",
       "license": "cc-by-nc"
     }
   ]

@@ -697,7 +697,7 @@
 | *Ascalohybris subjacens* | 黄脊蝶角蛉 | [15163139](https://www.inaturalist.org/observations/15163139) | (c) Kim, Hyun-tae, some rights reserved (CC BY-NC) |
 | *Eumantispa harmandi* | 汉优螳蛉 | [194947748](https://www.inaturalist.org/observations/194947748) | (c) yuqianyue, some rights reserved (CC BY-NC) |
 | *Micromus linearis* | 线脉褐蛉 | [338717384](https://www.inaturalist.org/observations/338717384) | (c) 褄黒ハル, some rights reserved (CC BY-NC) |
-| *Sisyra nikkoana* | 日光水蛉 | [195080473](https://www.inaturalist.org/observations/195080473) | (c) zzc, some rights reserved (CC BY-NC) |
+| *Sisyra nikkoana* | 日光水蛉 | [180281240](https://www.inaturalist.org/observations/180281240) | (c) 小铖/Smalltown, some rights reserved (CC BY-NC) |
 | *Galloisiana sinensis* | 中华蛩蠊 | [272533609](https://www.inaturalist.org/observations/272533609) | (c) yejielin, some rights reserved (CC BY-NC) |
 | *Acisoma panorpoides* | 锥腹蜻 | [7831591](https://www.inaturalist.org/observations/7831591) | (c) marcelfinlay, some rights reserved (CC BY-NC) |
 | *Anax julius* | 东亚碧伟蜓 | [97255903](https://www.inaturalist.org/observations/97255903) | (c) toogoo, some rights reserved (CC BY-NC) |
