@@ -678,7 +678,7 @@
 | *Spilomantis occipitalis* | 顶瑕螳 | [93026115](https://www.inaturalist.org/observations/93026115) | (c) portioid, some rights reserved (CC BY) |
 | *Statilia maculata* | 棕静螳 | [401571070](https://www.inaturalist.org/observations/401571070) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Tenodera angustipennis* | 狭翅大刀螳 | [143496319](https://www.inaturalist.org/observations/143496319) | (c) Benjamin Burgunder, some rights reserved (CC BY) |
-| *Tenodera aridifolia* | 枯叶大刀螳 | [128271579](https://www.inaturalist.org/observations/128271579) | (c) raamii chu, some rights reserved (CC BY-NC) |
+| *Tenodera aridifolia* | 枯叶大刀螳 | [380559335](https://www.inaturalist.org/observations/380559335) | (c) 稻荷, some rights reserved (CC BY-NC) |
 | *Tenodera sinensis* | 中华大刀螳 | [401571076](https://www.inaturalist.org/observations/401571076) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Theopropus sinecus* | 中华弧纹螳 | [247453473](https://www.inaturalist.org/observations/247453473) | (c) James C, some rights reserved (CC BY-NC) |
 | *Titanodula formosana* | 台湾巨斧螳 | [379033283](https://www.inaturalist.org/observations/379033283) | (c) Liam, some rights reserved (CC BY-NC) |
