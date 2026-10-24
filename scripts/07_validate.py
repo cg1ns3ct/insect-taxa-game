@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parent.parent
 GAME = ROOT / "public" / "data" / "game.json"
 IMAGES = ROOT / "public" / "images"
 ALLOWED = {"cc0", "cc-by", "cc-by-sa", "cc-by-nc", "cc-by-nc-sa"}
-SCORING = {"order": 10, "suborder": 20, "family": 40, "subfamily": 55, "genus": 75, "species": 100}
+SCORING = {"order": 15, "suborder": 25, "family": 50, "subfamily": 65, "genus": 80, "species": 100}
 
 
 def path_of(tid: int, nodes: dict) -> list[dict]:

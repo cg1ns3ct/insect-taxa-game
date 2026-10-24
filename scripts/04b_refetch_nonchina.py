@@ -25,7 +25,7 @@ fetch = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(fetch)
 
 CHINA_RE = re.compile(
-    r"中国|香港|澳门|澳門|台湾|臺灣|China|Hong Kong|Macau|Taiwan|(?:^|,\s*)CN(?:\s*,|$)",
+    r"中国|香港|澳门|澳門|台湾|臺灣|China|Hong Kong|Macau|Taiwan|(?:^|,\s*)CN(?:\s*,|$)|[\u4e00-\u9fff]",
     re.IGNORECASE,
 )
 

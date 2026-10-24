@@ -38,7 +38,10 @@ def process(record: dict) -> dict:
         }
 
     urls = [record.get("photo_url_large"), record.get("photo_url_square")]
-    urls = [u for u in urls if u]
+    urls.append(
+        f"https://static.inaturalist.org/photos/{photo_id}/large.jpg"
+    )
+    urls = list(dict.fromkeys(u for u in urls if u))
     raw = None
     for url in urls:
         for attempt in range(2):

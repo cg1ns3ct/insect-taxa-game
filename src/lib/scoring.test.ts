@@ -3,11 +3,11 @@ import { scoreGuess } from "./scoring";
 import type { TaxonNode } from "../types";
 
 const SCORING = {
-  order: 10,
-  suborder: 20,
-  family: 40,
-  subfamily: 55,
-  genus: 75,
+  order: 15,
+  suborder: 25,
+  family: 50,
+  subfamily: 65,
+  genus: 80,
   species: 100,
 };
 
@@ -54,26 +54,26 @@ describe("scoreGuess", () => {
   });
 
   it("gives checkpoint credit for a correct ancestor", () => {
-    expect(scoreGuess(10, 6, nodes, SCORING).score).toBe(40);
-    expect(scoreGuess(10, 9, nodes, SCORING).score).toBe(75);
-    expect(scoreGuess(10, 2, nodes, SCORING).score).toBe(10);
+    expect(scoreGuess(10, 6, nodes, SCORING).score).toBe(50);
+    expect(scoreGuess(10, 9, nodes, SCORING).score).toBe(80);
+    expect(scoreGuess(10, 2, nodes, SCORING).score).toBe(15);
   });
 
   it("does not require a player to select auxiliary ranks", () => {
-    expect(scoreGuess(10, 5, nodes, SCORING).score).toBe(20);
-    expect(scoreGuess(10, 8, nodes, SCORING).score).toBe(55);
+    expect(scoreGuess(10, 5, nodes, SCORING).score).toBe(25);
+    expect(scoreGuess(10, 8, nodes, SCORING).score).toBe(65);
   });
 
   it("penalizes a wrong branch at the LCA checkpoint", () => {
     const bee = scoreGuess(10, 21, nodes, SCORING);
-    expect(bee.score).toBe(18);
+    expect(bee.score).toBe(23);
     expect(bee.checkpointRank).toBe("suborder");
     expect(bee.onTargetPath).toBe(false);
   });
 
   it("penalizes a wrong congener at genus", () => {
     const congener = scoreGuess(10, 11, nodes, SCORING);
-    expect(congener.score).toBe(68);
+    expect(congener.score).toBe(72);
     expect(congener.checkpointRank).toBe("genus");
   });
 

@@ -14,16 +14,16 @@ PUBLIC.mkdir(parents=True, exist_ok=True)
 
 INSECTA = 47158
 SCORING = {
-    "order": 10,
-    "suborder": 20,
-    "family": 40,
-    "subfamily": 55,
-    "genus": 75,
+    "order": 15,
+    "suborder": 25,
+    "family": 50,
+    "subfamily": 65,
+    "genus": 80,
     "species": 100,
 }
 SCORING_RANKS = set(SCORING)
 CHINA_RE = re.compile(
-    r"中国|香港|澳门|澳門|台湾|臺灣|China|Hong Kong|Macau|Taiwan|(?:^|,\s*)CN(?:\s*,|$)",
+    r"中国|香港|澳门|澳門|台湾|臺灣|China|Hong Kong|Macau|Taiwan|(?:^|,\s*)CN(?:\s*,|$)|[\u4e00-\u9fff]",
     re.IGNORECASE,
 )
 
