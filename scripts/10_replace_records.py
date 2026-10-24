@@ -27,7 +27,7 @@ REPLACEMENTS = {
     67598: (145042248, 249074753),  # Solenopsis invicta
     98382: (199567670, 351960881),  # Copera marginipes
     470244: (180281240, 313998636),  # Sisyra nikkoana
-    491973: (149326652, 257303990),  # Neope muirheadii
+    491973: (212870598, 376183621),  # Neope muirheadii
     125574: (291119277, 523763435),  # Graphium cloanthus
     132104: (380559335, 696241472),  # Tenodera aridifolia
 }

@@ -586,7 +586,7 @@
 | *Monema flavescens* | 黄刺蛾 | [15290464](https://www.inaturalist.org/observations/15290464) | (c) Rachel V, some rights reserved (CC BY-NC) |
 | *Mycalesis francisca* | 拟稻眉眼蝶 | [88510497](https://www.inaturalist.org/observations/88510497) | (c) 金翼白眉, some rights reserved (CC BY-NC) |
 | *Mycalesis gotama* | 稻眉眼蝶 | [82534736](https://www.inaturalist.org/observations/82534736) | (c) Minyoung Song, some rights reserved (CC BY-NC) |
-| *Neope muirheadii* | 蒙链荫眼蝶 | [149326652](https://www.inaturalist.org/observations/149326652) | (c) Charles, some rights reserved (CC BY-NC) |
+| *Neope muirheadii* | 蒙链荫眼蝶 | [212870598](https://www.inaturalist.org/observations/212870598) | (c) 零摄氏度可乐Sam, some rights reserved (CC BY-NC) |
 | *Neptis hylas* | 中环蛱蝶 | [314544242](https://www.inaturalist.org/observations/314544242) | (c) Ujjal Kishor De, some rights reserved (CC BY-NC) |
 | *Neptis sappho* | 小环蛱蝶 | [208962332](https://www.inaturalist.org/observations/208962332) | no rights reserved |
 | *Notonagemia analis* | 大背天蛾 | [314725066](https://www.inaturalist.org/observations/314725066) | (c) 郭燕青, some rights reserved (CC BY-NC) |
