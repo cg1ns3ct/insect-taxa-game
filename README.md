@@ -1,5 +1,7 @@
 # 虫阶 / TaxaQuest
 
+在线试玩：**https://cg1ns3ct.github.io/insect-taxa-game/**
+
 一个看昆虫照片、在分类树上选择分类阶元的猜谜游戏。
 
 - **题库**：以中国境内 iNaturalist 研究级记录为基础，每种一条带地点的记录、一张图。
