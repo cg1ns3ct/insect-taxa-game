@@ -216,6 +216,10 @@ a {
   background: rgba(45, 90, 69, 0.82);
 }
 
+.source-contributor {
+  background: rgba(52, 83, 112, 0.84);
+}
+
 .scope-badge {
   background: rgba(180, 82, 44, 0.78);
 }

@@ -390,7 +390,7 @@ function Footer({ data }: { data: GameData }) {
   const date = new Date(data.generatedAt).toLocaleDateString("zh-CN");
   return (
     <footer className="site-footer">
-      <span>虫阶 · 分类树来自 iNaturalist，图片遵循各自 CC 许可</span>
+      <span>虫阶 · 记录与图片来自 iNaturalist（cg1ns3ct、yy_never_air_force 及社区），遵循各自 CC 许可</span>
       <span>
         {data.counts.taxa.toLocaleString()} 个节点 · {data.counts.rounds} 道题 · 快照 {date}
       </span>

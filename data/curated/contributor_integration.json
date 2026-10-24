@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-10-24T14:28:35.372932+00:00",
+  "contributor": "yy_never_air_force",
+  "observations": 78,
+  "species": 68,
+  "added_targets": 25,
+  "replaced_community": 36,
+  "kept_owner": 7,
+  "new_species": [
+    {
+      "taxon_id": 148094,
+      "name": "Taylorilygus apicalis",
+      "zh": "泛泰盲蝽"
+    },
+    {
+      "taxon_id": 124893,
+      "name": "Macrocilix mysticata",
+      "zh": "短铃钩蛾"
+    },
+    {
+      "taxon_id": 125346,
+      "name": "Thyas juno",
+      "zh": "庸肖毛翅夜蛾"
+    },
+    {
+      "taxon_id": 415423,
+      "name": "Ourapteryx nivea",
+      "zh": "雪尾尺蛾"
+    },
+    {
+      "taxon_id": 951620,
+      "name": "Sphenoraia micans",
+      "zh": "细刻斯萤叶甲"
+    },
+    {
+      "taxon_id": 905882,
+      "name": "Panorpa lutea",
+      "zh": "黄蝎蛉"
+    },
+    {
+      "taxon_id": 1344704,
+      "name": "Loepa kuangtungensis",
+      "zh": "粤豹天蚕蛾"
+    },
+    {
+      "taxon_id": 1285230,
+      "name": "Diomea fasciata",
+      "zh": "长阳狄夜蛾"
+    },
+    {
+      "taxon_id": 1369457,
+      "name": "Neoneuromus similis",
+      "zh": "东华齿蛉"
+    },
+    {
+      "taxon_id": 516704,
+      "name": "Diaperis lewisi",
+      "zh": "刘氏菌甲"
+    },
+    {
+      "taxon_id": 208950,
+      "name": "Trotocraspeda divaricata",
+      "zh": "金黄歧带尺蛾"
+    },
+    {
+      "taxon_id": 199466,
+      "name": "Ambulyx liturata",
+      "zh": "栎鹰翅天蛾"
+    },
+    {
+      "taxon_id": 125574,
+      "name": "Graphium cloanthus",
+      "zh": "宽带青凤蝶"
+    },
+    {
+      "taxon_id": 779533,
+      "name": "Deracantha onos",
+      "zh": "笨棘颈螽"
+    },
+    {
+      "taxon_id": 99901,
+      "name": "Enallagma cyathigerum",
+      "zh": "心斑绿蟌"
+    },
+    {
+      "taxon_id": 740969,
+      "name": "Orybina regalis",
+      "zh": "艳双点螟"
+    },
+    {
+      "taxon_id": 370713,
+      "name": "Desmidophorus hebes",
+      "zh": "毛束象"
+    },
+    {
+      "taxon_id": 100213,
+      "name": "Epitheca marginata",
+      "zh": "缘斑毛伪蜻"
+    },
+    {
+      "taxon_id": 498045,
+      "name": "Phytoecia rufiventris",
+      "zh": "菊小筒天牛"
+    },
+    {
+      "taxon_id": 734061,
+      "name": "Gerbathodes paupera",
+      "zh": "白纹哲夜蛾"
+    },
+    {
+      "taxon_id": 1529737,
+      "name": "Apterodela bivirgulata",
+      "zh": "双纹虎甲"
+    },
+    {
+      "taxon_id": 547466,
+      "name": "Peirates turpis",
+      "zh": "污黑盗猎蝽"
+    },
+    {
+      "taxon_id": 1433165,
+      "name": "Pyrrhalta submetallica",
+      "zh": "粗角毛萤叶甲"
+    },
+    {
+      "taxon_id": 1184621,
+      "name": "Eupyrochroa insignita",
+      "zh": "普通真赤翅甲"
+    },
+    {
+      "taxon_id": 905804,
+      "name": "Chloridolum lameeri",
+      "zh": "红缘长绿天牛"
+    }
+  ]
+}

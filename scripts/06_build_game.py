@@ -204,6 +204,7 @@ def main() -> None:
             "taxonId": tid,
             "image": f"images/{record['photo_id']}.webp",
             "source": record["source"],
+            "contributor": record.get("contributor"),
             "placeScope": infer_scope(record),
             "observationId": record["observation_id"],
             "observationUrl": record["observation_url"],
@@ -234,6 +235,9 @@ def main() -> None:
             "rounds": len(rounds),
             "targets": len(target_rows),
             "ownerRounds": sum(1 for r in rounds if r["source"] == "owner"),
+            "contributorRounds": sum(
+                1 for r in rounds if r["source"] == "contributor"
+            ),
             "extras": len(extras),
         },
         "nodes": {str(k): v for k, v in nodes.items()},

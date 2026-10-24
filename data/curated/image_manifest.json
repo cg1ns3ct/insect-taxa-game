@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T13:51:01.500913+00:00",
+  "generated_at": "2026-10-24T14:29:35.058618+00:00",
   "counts": {
-    "records": 778,
-    "manifest": 778,
+    "records": 803,
+    "manifest": 803,
     "failed": 0
   },
   "images": [
@@ -71,10 +71,12 @@
     },
     {
       "taxon_id": 51702,
-      "photo_id": 271648285,
-      "path": "images/271648285.webp",
-      "bytes": 61590,
-      "status": "cached"
+      "photo_id": 668335416,
+      "path": "images/668335416.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 31178,
+      "status": "ok"
     },
     {
       "taxon_id": 51784,
@@ -85,10 +87,12 @@
     },
     {
       "taxon_id": 51922,
-      "photo_id": 72900782,
-      "path": "images/72900782.webp",
-      "bytes": 124488,
-      "status": "cached"
+      "photo_id": 754090777,
+      "path": "images/754090777.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 199450,
+      "status": "ok"
     },
     {
       "taxon_id": 51996,
@@ -176,17 +180,21 @@
     },
     {
       "taxon_id": 55640,
-      "photo_id": 11612500,
-      "path": "images/11612500.webp",
-      "bytes": 27576,
-      "status": "cached"
+      "photo_id": 670818089,
+      "path": "images/670818089.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 94876,
+      "status": "ok"
     },
     {
       "taxon_id": 55655,
-      "photo_id": 109400681,
-      "path": "images/109400681.webp",
-      "bytes": 52654,
-      "status": "cached"
+      "photo_id": 704079349,
+      "path": "images/704079349.webp",
+      "width": 1024,
+      "height": 672,
+      "bytes": 21766,
+      "status": "ok"
     },
     {
       "taxon_id": 55719,
@@ -290,10 +298,8 @@
       "taxon_id": 67598,
       "photo_id": 249074753,
       "path": "images/249074753.webp",
-      "width": 768,
-      "height": 1024,
       "bytes": 234436,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 67771,
@@ -318,10 +324,12 @@
     },
     {
       "taxon_id": 68352,
-      "photo_id": 349022057,
-      "path": "images/349022057.webp",
-      "bytes": 130026,
-      "status": "cached"
+      "photo_id": 723600586,
+      "path": "images/723600586.webp",
+      "width": 1024,
+      "height": 583,
+      "bytes": 143260,
+      "status": "ok"
     },
     {
       "taxon_id": 68365,
@@ -481,10 +489,8 @@
       "taxon_id": 98382,
       "photo_id": 351960881,
       "path": "images/351960881.webp",
-      "width": 1024,
-      "height": 683,
       "bytes": 26578,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 99153,
@@ -499,6 +505,24 @@
       "path": "images/1860377.webp",
       "bytes": 40334,
       "status": "cached"
+    },
+    {
+      "taxon_id": 99901,
+      "photo_id": 703414195,
+      "path": "images/703414195.webp",
+      "width": 1024,
+      "height": 620,
+      "bytes": 42518,
+      "status": "ok"
+    },
+    {
+      "taxon_id": 100213,
+      "photo_id": 668401599,
+      "path": "images/668401599.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 28380,
+      "status": "ok"
     },
     {
       "taxon_id": 100224,
@@ -523,10 +547,12 @@
     },
     {
       "taxon_id": 104848,
-      "photo_id": 368516160,
-      "path": "images/368516160.webp",
-      "bytes": 201960,
-      "status": "cached"
+      "photo_id": 668861800,
+      "path": "images/668861800.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 163708,
+      "status": "ok"
     },
     {
       "taxon_id": 105328,
@@ -572,10 +598,12 @@
     },
     {
       "taxon_id": 108344,
-      "photo_id": 160633437,
-      "path": "images/160633437.webp",
-      "bytes": 70374,
-      "status": "cached"
+      "photo_id": 704079430,
+      "path": "images/704079430.webp",
+      "width": 1024,
+      "height": 691,
+      "bytes": 38222,
+      "status": "ok"
     },
     {
       "taxon_id": 108420,
@@ -656,10 +684,12 @@
     },
     {
       "taxon_id": 118894,
-      "photo_id": 576645194,
-      "path": "images/576645194.webp",
-      "bytes": 176440,
-      "status": "cached"
+      "photo_id": 703510634,
+      "path": "images/703510634.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 57242,
+      "status": "ok"
     },
     {
       "taxon_id": 119019,
@@ -774,6 +804,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 124893,
+      "photo_id": 754090671,
+      "path": "images/754090671.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 171628,
+      "status": "ok"
+    },
+    {
       "taxon_id": 125071,
       "photo_id": 138503737,
       "path": "images/138503737.webp",
@@ -793,6 +832,15 @@
       "path": "images/737061441.webp",
       "bytes": 21566,
       "status": "cached"
+    },
+    {
+      "taxon_id": 125346,
+      "photo_id": 754090589,
+      "path": "images/754090589.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 28554,
+      "status": "ok"
     },
     {
       "taxon_id": 125505,
@@ -845,10 +893,21 @@
     },
     {
       "taxon_id": 125573,
-      "photo_id": 218220744,
-      "path": "images/218220744.webp",
-      "bytes": 73046,
-      "status": "cached"
+      "photo_id": 668385278,
+      "path": "images/668385278.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 322068,
+      "status": "ok"
+    },
+    {
+      "taxon_id": 125574,
+      "photo_id": 722951580,
+      "path": "images/722951580.webp",
+      "width": 1024,
+      "height": 673,
+      "bytes": 52582,
+      "status": "ok"
     },
     {
       "taxon_id": 125576,
@@ -859,10 +918,12 @@
     },
     {
       "taxon_id": 125589,
-      "photo_id": 583517536,
-      "path": "images/583517536.webp",
-      "bytes": 110044,
-      "status": "cached"
+      "photo_id": 703496256,
+      "path": "images/703496256.webp",
+      "width": 1024,
+      "height": 608,
+      "bytes": 105220,
+      "status": "ok"
     },
     {
       "taxon_id": 125591,
@@ -980,10 +1041,8 @@
       "taxon_id": 130335,
       "photo_id": 451477880,
       "path": "images/451477880.webp",
-      "width": 1024,
-      "height": 680,
       "bytes": 49618,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 130337,
@@ -1099,10 +1158,12 @@
     },
     {
       "taxon_id": 144054,
-      "photo_id": 591305601,
-      "path": "images/591305601.webp",
-      "bytes": 234082,
-      "status": "cached"
+      "photo_id": 722951886,
+      "path": "images/722951886.webp",
+      "width": 724,
+      "height": 1024,
+      "bytes": 113736,
+      "status": "ok"
     },
     {
       "taxon_id": 145559,
@@ -1113,10 +1174,12 @@
     },
     {
       "taxon_id": 145586,
-      "photo_id": 2932452,
-      "path": "images/2932452.webp",
-      "bytes": 60382,
-      "status": "cached"
+      "photo_id": 668401636,
+      "path": "images/668401636.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 79380,
+      "status": "ok"
     },
     {
       "taxon_id": 145621,
@@ -1185,10 +1248,8 @@
       "taxon_id": 146737,
       "photo_id": 146403147,
       "path": "images/146403147.webp",
-      "width": 1024,
-      "height": 683,
       "bytes": 159360,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 146857,
@@ -1224,6 +1285,15 @@
       "path": "images/85968489.webp",
       "bytes": 103346,
       "status": "cached"
+    },
+    {
+      "taxon_id": 148094,
+      "photo_id": 754090685,
+      "path": "images/754090685.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 147162,
+      "status": "ok"
     },
     {
       "taxon_id": 149307,
@@ -1318,10 +1388,21 @@
     },
     {
       "taxon_id": 199326,
-      "photo_id": 8763809,
-      "path": "images/8763809.webp",
-      "bytes": 90912,
-      "status": "cached"
+      "photo_id": 703496261,
+      "path": "images/703496261.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 35200,
+      "status": "ok"
+    },
+    {
+      "taxon_id": 199466,
+      "photo_id": 722951694,
+      "path": "images/722951694.webp",
+      "width": 1024,
+      "height": 713,
+      "bytes": 223874,
+      "status": "ok"
     },
     {
       "taxon_id": 199563,
@@ -1387,6 +1468,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 208950,
+      "photo_id": 722951776,
+      "path": "images/722951776.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 169146,
+      "status": "ok"
+    },
+    {
       "taxon_id": 209176,
       "photo_id": 6418201,
       "path": "images/6418201.webp",
@@ -1430,10 +1520,12 @@
     },
     {
       "taxon_id": 244441,
-      "photo_id": 720067468,
-      "path": "images/720067468.webp",
-      "bytes": 186998,
-      "status": "cached"
+      "photo_id": 668335418,
+      "path": "images/668335418.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 45570,
+      "status": "ok"
     },
     {
       "taxon_id": 245783,
@@ -1997,10 +2089,12 @@
     },
     {
       "taxon_id": 348919,
-      "photo_id": 566330794,
-      "path": "images/566330794.webp",
-      "bytes": 292036,
-      "status": "cached"
+      "photo_id": 704079344,
+      "path": "images/704079344.webp",
+      "width": 1024,
+      "height": 553,
+      "bytes": 49944,
+      "status": "ok"
     },
     {
       "taxon_id": 349060,
@@ -2053,10 +2147,12 @@
     },
     {
       "taxon_id": 355837,
-      "photo_id": 54414078,
-      "path": "images/54414078.webp",
-      "bytes": 44700,
-      "status": "cached"
+      "photo_id": 673912946,
+      "path": "images/673912946.webp",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 125444,
+      "status": "ok"
     },
     {
       "taxon_id": 355992,
@@ -2109,10 +2205,12 @@
     },
     {
       "taxon_id": 356470,
-      "photo_id": 199051492,
-      "path": "images/199051492.webp",
-      "bytes": 135488,
-      "status": "cached"
+      "photo_id": 668385803,
+      "path": "images/668385803.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 250638,
+      "status": "ok"
     },
     {
       "taxon_id": 357332,
@@ -2158,10 +2256,12 @@
     },
     {
       "taxon_id": 358062,
-      "photo_id": 535365231,
-      "path": "images/535365231.webp",
-      "bytes": 252952,
-      "status": "cached"
+      "photo_id": 673913123,
+      "path": "images/673913123.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 26532,
+      "status": "ok"
     },
     {
       "taxon_id": 358078,
@@ -2340,10 +2440,12 @@
     },
     {
       "taxon_id": 360028,
-      "photo_id": 144890159,
-      "path": "images/144890159.webp",
-      "bytes": 96978,
-      "status": "cached"
+      "photo_id": 753254303,
+      "path": "images/753254303.webp",
+      "width": 1024,
+      "height": 659,
+      "bytes": 52444,
+      "status": "ok"
     },
     {
       "taxon_id": 360058,
@@ -2507,6 +2609,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 370713,
+      "photo_id": 673913165,
+      "path": "images/673913165.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 35050,
+      "status": "ok"
+    },
+    {
       "taxon_id": 370787,
       "photo_id": 194158259,
       "path": "images/194158259.webp",
@@ -2557,10 +2668,12 @@
     },
     {
       "taxon_id": 372673,
-      "photo_id": 103245810,
-      "path": "images/103245810.webp",
-      "bytes": 27116,
-      "status": "cached"
+      "photo_id": 700037144,
+      "path": "images/700037144.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 22176,
+      "status": "ok"
     },
     {
       "taxon_id": 372674,
@@ -2596,6 +2709,15 @@
       "path": "images/14935714.webp",
       "bytes": 42798,
       "status": "cached"
+    },
+    {
+      "taxon_id": 415423,
+      "photo_id": 754090532,
+      "path": "images/754090532.webp",
+      "width": 575,
+      "height": 1024,
+      "bytes": 132844,
+      "status": "ok"
     },
     {
       "taxon_id": 415442,
@@ -2664,10 +2786,8 @@
       "taxon_id": 424957,
       "photo_id": 531682794,
       "path": "images/531682794.webp",
-      "width": 897,
-      "height": 1024,
       "bytes": 94660,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 425886,
@@ -2727,10 +2847,12 @@
     },
     {
       "taxon_id": 446661,
-      "photo_id": 16798418,
-      "path": "images/16798418.webp",
-      "bytes": 72518,
-      "status": "cached"
+      "photo_id": 668385207,
+      "path": "images/668385207.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 142678,
+      "status": "ok"
     },
     {
       "taxon_id": 450149,
@@ -2902,10 +3024,12 @@
     },
     {
       "taxon_id": 472306,
-      "photo_id": 297918463,
-      "path": "images/297918463.webp",
-      "bytes": 35528,
-      "status": "cached"
+      "photo_id": 704079238,
+      "path": "images/704079238.webp",
+      "width": 1024,
+      "height": 568,
+      "bytes": 77472,
+      "status": "ok"
     },
     {
       "taxon_id": 473439,
@@ -2937,10 +3061,12 @@
     },
     {
       "taxon_id": 477089,
-      "photo_id": 200220506,
-      "path": "images/200220506.webp",
-      "bytes": 113928,
-      "status": "cached"
+      "photo_id": 668385497,
+      "path": "images/668385497.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 204140,
+      "status": "ok"
     },
     {
       "taxon_id": 479971,
@@ -3132,6 +3258,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 498045,
+      "photo_id": 668385487,
+      "path": "images/668385487.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 76450,
+      "status": "ok"
+    },
+    {
       "taxon_id": 498801,
       "photo_id": 27650557,
       "path": "images/27650557.webp",
@@ -3307,6 +3442,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 516704,
+      "photo_id": 722951867,
+      "path": "images/722951867.webp",
+      "width": 1024,
+      "height": 599,
+      "bytes": 200474,
+      "status": "ok"
+    },
+    {
       "taxon_id": 518233,
       "photo_id": 741552683,
       "path": "images/741552683.webp",
@@ -3420,10 +3564,12 @@
     },
     {
       "taxon_id": 546788,
-      "photo_id": 563083362,
-      "path": "images/563083362.webp",
-      "bytes": 54198,
-      "status": "cached"
+      "photo_id": 670818065,
+      "path": "images/670818065.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 79064,
+      "status": "ok"
     },
     {
       "taxon_id": 547039,
@@ -3438,6 +3584,15 @@
       "path": "images/517988481.webp",
       "bytes": 30562,
       "status": "cached"
+    },
+    {
+      "taxon_id": 547466,
+      "photo_id": 668363469,
+      "path": "images/668363469.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 51978,
+      "status": "ok"
     },
     {
       "taxon_id": 547515,
@@ -3455,10 +3610,12 @@
     },
     {
       "taxon_id": 548764,
-      "photo_id": 120936549,
-      "path": "images/120936549.webp",
-      "bytes": 20456,
-      "status": "cached"
+      "photo_id": 673912943,
+      "path": "images/673912943.webp",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 42210,
+      "status": "ok"
     },
     {
       "taxon_id": 549007,
@@ -3756,10 +3913,12 @@
     },
     {
       "taxon_id": 578083,
-      "photo_id": 79697378,
-      "path": "images/79697378.webp",
-      "bytes": 199614,
-      "status": "cached"
+      "photo_id": 753255185,
+      "path": "images/753255185.webp",
+      "width": 1024,
+      "height": 576,
+      "bytes": 29670,
+      "status": "ok"
     },
     {
       "taxon_id": 578590,
@@ -3791,10 +3950,12 @@
     },
     {
       "taxon_id": 604088,
-      "photo_id": 588584244,
-      "path": "images/588584244.webp",
-      "bytes": 98486,
-      "status": "cached"
+      "photo_id": 753254874,
+      "path": "images/753254874.webp",
+      "width": 1024,
+      "height": 671,
+      "bytes": 99802,
+      "status": "ok"
     },
     {
       "taxon_id": 622565,
@@ -3854,10 +4015,12 @@
     },
     {
       "taxon_id": 632638,
-      "photo_id": 195531709,
-      "path": "images/195531709.webp",
-      "bytes": 37734,
-      "status": "cached"
+      "photo_id": 680899056,
+      "path": "images/680899056.webp",
+      "width": 1024,
+      "height": 482,
+      "bytes": 36552,
+      "status": "ok"
     },
     {
       "taxon_id": 633772,
@@ -4028,6 +4191,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 734061,
+      "photo_id": 668385447,
+      "path": "images/668385447.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 226078,
+      "status": "ok"
+    },
+    {
       "taxon_id": 735524,
       "photo_id": 541067253,
       "path": "images/541067253.webp",
@@ -4068,6 +4240,15 @@
       "path": "images/412113420.webp",
       "bytes": 80746,
       "status": "cached"
+    },
+    {
+      "taxon_id": 740969,
+      "photo_id": 680898506,
+      "path": "images/680898506.webp",
+      "width": 1024,
+      "height": 676,
+      "bytes": 119792,
+      "status": "ok"
     },
     {
       "taxon_id": 741196,
@@ -4231,6 +4412,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 779533,
+      "photo_id": 703414201,
+      "path": "images/703414201.webp",
+      "width": 1024,
+      "height": 770,
+      "bytes": 80098,
+      "status": "ok"
+    },
+    {
       "taxon_id": 780114,
       "photo_id": 56207125,
       "path": "images/56207125.webp",
@@ -4309,10 +4499,12 @@
     },
     {
       "taxon_id": 805227,
-      "photo_id": 631330873,
-      "path": "images/631330873.webp",
-      "bytes": 28774,
-      "status": "cached"
+      "photo_id": 723600854,
+      "path": "images/723600854.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 185640,
+      "status": "ok"
     },
     {
       "taxon_id": 808597,
@@ -4393,10 +4585,12 @@
     },
     {
       "taxon_id": 858470,
-      "photo_id": 750831080,
-      "path": "images/750831080.webp",
-      "bytes": 31102,
-      "status": "cached"
+      "photo_id": 668962281,
+      "path": "images/668962281.webp",
+      "width": 1024,
+      "height": 576,
+      "bytes": 53578,
+      "status": "ok"
     },
     {
       "taxon_id": 859189,
@@ -4609,11 +4803,31 @@
       "status": "cached"
     },
     {
+      "taxon_id": 905804,
+      "photo_id": 667692636,
+      "path": "images/667692636.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 24636,
+      "status": "ok"
+    },
+    {
+      "taxon_id": 905882,
+      "photo_id": 753255241,
+      "path": "images/753255241.webp",
+      "width": 1024,
+      "height": 598,
+      "bytes": 37302,
+      "status": "ok"
+    },
+    {
       "taxon_id": 919332,
-      "photo_id": 483312981,
-      "path": "images/483312981.webp",
-      "bytes": 19516,
-      "status": "cached"
+      "photo_id": 680818913,
+      "path": "images/680818913.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 75510,
+      "status": "ok"
     },
     {
       "taxon_id": 919335,
@@ -4649,6 +4863,15 @@
       "path": "images/662300378.webp",
       "bytes": 164012,
       "status": "cached"
+    },
+    {
+      "taxon_id": 951620,
+      "photo_id": 753255317,
+      "path": "images/753255317.webp",
+      "width": 1024,
+      "height": 667,
+      "bytes": 104100,
+      "status": "ok"
     },
     {
       "taxon_id": 953413,
@@ -4960,10 +5183,12 @@
     },
     {
       "taxon_id": 1156163,
-      "photo_id": 707370117,
-      "path": "images/707370117.webp",
-      "bytes": 48854,
-      "status": "cached"
+      "photo_id": 723600950,
+      "path": "images/723600950.webp",
+      "width": 1024,
+      "height": 547,
+      "bytes": 173426,
+      "status": "ok"
     },
     {
       "taxon_id": 1156644,
@@ -4985,6 +5210,15 @@
       "path": "images/514990197.webp",
       "bytes": 138470,
       "status": "cached"
+    },
+    {
+      "taxon_id": 1184621,
+      "photo_id": 667825457,
+      "path": "images/667825457.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 8156,
+      "status": "ok"
     },
     {
       "taxon_id": 1188568,
@@ -5030,10 +5264,12 @@
     },
     {
       "taxon_id": 1234627,
-      "photo_id": 297676269,
-      "path": "images/297676269.webp",
-      "bytes": 191148,
-      "status": "cached"
+      "photo_id": 667692593,
+      "path": "images/667692593.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 44444,
+      "status": "ok"
     },
     {
       "taxon_id": 1259520,
@@ -5041,6 +5277,15 @@
       "path": "images/213599153.webp",
       "bytes": 188694,
       "status": "cached"
+    },
+    {
+      "taxon_id": 1285230,
+      "photo_id": 723565208,
+      "path": "images/723565208.webp",
+      "width": 784,
+      "height": 1024,
+      "bytes": 230444,
+      "status": "ok"
     },
     {
       "taxon_id": 1290471,
@@ -5078,6 +5323,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 1344704,
+      "photo_id": 723565252,
+      "path": "images/723565252.webp",
+      "width": 1024,
+      "height": 528,
+      "bytes": 77526,
+      "status": "ok"
+    },
+    {
       "taxon_id": 1346017,
       "photo_id": 538364353,
       "path": "images/538364353.webp",
@@ -5093,10 +5347,12 @@
     },
     {
       "taxon_id": 1351534,
-      "photo_id": 531765232,
-      "path": "images/531765232.webp",
-      "bytes": 172118,
-      "status": "cached"
+      "photo_id": 667692591,
+      "path": "images/667692591.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 51502,
+      "status": "ok"
     },
     {
       "taxon_id": 1352453,
@@ -5125,6 +5381,15 @@
       "path": "images/357938499.webp",
       "bytes": 117934,
       "status": "cached"
+    },
+    {
+      "taxon_id": 1369457,
+      "photo_id": 722981092,
+      "path": "images/722981092.webp",
+      "width": 1024,
+      "height": 567,
+      "bytes": 37472,
+      "status": "ok"
     },
     {
       "taxon_id": 1371427,
@@ -5188,6 +5453,15 @@
       "path": "images/288910286.webp",
       "bytes": 26574,
       "status": "cached"
+    },
+    {
+      "taxon_id": 1433165,
+      "photo_id": 668182993,
+      "path": "images/668182993.webp",
+      "width": 1024,
+      "height": 596,
+      "bytes": 33738,
+      "status": "ok"
     },
     {
       "taxon_id": 1434571,
@@ -5302,6 +5576,15 @@
       "status": "cached"
     },
     {
+      "taxon_id": 1529737,
+      "photo_id": 668385407,
+      "path": "images/668385407.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 100748,
+      "status": "ok"
+    },
+    {
       "taxon_id": 1544736,
       "photo_id": 214406810,
       "path": "images/214406810.webp",
@@ -5331,10 +5614,12 @@
     },
     {
       "taxon_id": 1594925,
-      "photo_id": 149122810,
-      "path": "images/149122810.webp",
-      "bytes": 61946,
-      "status": "cached"
+      "photo_id": 703510611,
+      "path": "images/703510611.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 184392,
+      "status": "ok"
     },
     {
       "taxon_id": 1596988,
@@ -5352,10 +5637,12 @@
     },
     {
       "taxon_id": 1610101,
-      "photo_id": 597891361,
-      "path": "images/597891361.webp",
-      "bytes": 217672,
-      "status": "cached"
+      "photo_id": 722951604,
+      "path": "images/722951604.webp",
+      "width": 1016,
+      "height": 1024,
+      "bytes": 46974,
+      "status": "ok"
     },
     {
       "taxon_id": 1625772,

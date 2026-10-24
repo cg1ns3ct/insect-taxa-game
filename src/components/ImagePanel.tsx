@@ -39,8 +39,19 @@ export function ImagePanel({ round, baseUrl }: Props) {
           loading="eager"
         />
         <div className="image-corner">
-          <span className={`source-badge source-${round.source}`}>
-            {round.source === "owner" ? "自有记录" : "社区记录"}
+          <span
+            className={`source-badge source-${round.source}`}
+            title={
+              round.source === "contributor"
+                ? `由 ${round.contributor ?? "yy_never_air_force"} 记录`
+                : undefined
+            }
+          >
+            {round.source === "owner"
+              ? "自有记录"
+              : round.source === "contributor"
+                ? "yy 记录"
+                : "社区记录"}
           </span>
           {round.placeScope === "global" && (
             <span className="source-badge scope-badge">境外同种记录</span>

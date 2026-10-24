@@ -26,7 +26,8 @@ export interface TaxonNode {
 export interface Round {
   taxonId: number;
   image: string;
-  source: "owner" | "community";
+  source: "owner" | "community" | "contributor";
+  contributor?: string;
   placeScope?: "china" | "global";
   observationId: number;
   observationUrl: string;
@@ -51,6 +52,7 @@ export interface GameData {
     rounds: number;
     targets: number;
     ownerRounds: number;
+    contributorRounds?: number;
     extras?: number;
   };
   nodes: Record<string, TaxonNode>;
