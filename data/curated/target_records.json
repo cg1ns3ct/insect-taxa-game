@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T14:36:50.796593+00:00",
+  "generated_at": "2026-10-24T14:56:10.674095+00:00",
   "counts": {
     "targets": 803,
     "records": 803,
-    "replaced": 6,
+    "replaced": 8,
     "owner_records": 85
   },
   "records": {
@@ -4161,31 +4161,30 @@
       "order_name": "Lepidoptera",
       "order_zh": "鳞翅目",
       "owner": false,
-      "source": "contributor",
-      "observation_id": 394356169,
-      "observation_url": "https://www.inaturalist.org/observations/394356169",
+      "source": "community",
+      "observation_id": 291119277,
+      "observation_url": "https://www.inaturalist.org/observations/291119277",
       "quality_grade": "research",
-      "observed_on": "2026-08-17",
-      "place_guess": "中国安徽省黄山市黄山区",
-      "latitude": "30.0636619308",
-      "longitude": "118.1616718451",
+      "observed_on": "2021-03-21",
+      "place_guess": "中国云南省丽江市古城区",
+      "latitude": "26.8728332519",
+      "longitude": "100.2232894897",
       "geoprivacy": null,
       "obscured": false,
-      "num_identification_agreements": 1,
-      "identifications_count": 1,
-      "photo_id": 722951580,
+      "num_identification_agreements": 3,
+      "identifications_count": 3,
+      "photo_id": 523763435,
       "photo_license": "cc-by-nc",
-      "photo_attribution": "(c) yy_never_air_force, some rights reserved (CC BY-NC)",
-      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/722951580/square.jpg",
-      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/722951580/large.jpg",
-      "photo_width": 1086,
-      "photo_height": 714,
+      "photo_attribution": "(c) pikasu, some rights reserved (CC BY-NC)",
+      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/523763435/square.jpg",
+      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523763435/large.jpg",
+      "photo_width": 2048,
+      "photo_height": 1536,
       "annotations": {
         "life_stage": null,
         "alive": null,
         "evidence": null
       },
-      "contributor": "yy_never_air_force",
       "place_scope": "china"
     },
     "125576": {
@@ -14767,29 +14766,30 @@
       "order_zh": "鳞翅目",
       "owner": false,
       "source": "community",
-      "observation_id": 148698501,
-      "observation_url": "https://www.inaturalist.org/observations/148698501",
+      "observation_id": 149326652,
+      "observation_url": "https://www.inaturalist.org/observations/149326652",
       "quality_grade": "research",
-      "observed_on": "2022-05-27",
+      "observed_on": "2022-06-15",
       "place_guess": "Qingdao, CN-SD, CN",
-      "latitude": "36.3990625777",
-      "longitude": "120.5116489643",
+      "latitude": "36.114027806",
+      "longitude": "120.6319868333",
       "geoprivacy": "obscured",
       "obscured": true,
       "num_identification_agreements": 3,
       "identifications_count": 3,
-      "photo_id": 256127600,
+      "photo_id": 257303990,
       "photo_license": "cc-by-nc",
       "photo_attribution": "(c) Charles, some rights reserved (CC BY-NC)",
-      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/256127600/square.jpeg",
-      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256127600/large.jpeg",
+      "photo_url_square": "https://inaturalist-open-data.s3.amazonaws.com/photos/257303990/square.jpeg",
+      "photo_url_large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257303990/large.jpeg",
       "photo_width": 2048,
       "photo_height": 1365,
       "annotations": {
         "life_stage": null,
         "alive": null,
         "evidence": null
-      }
+      },
+      "place_scope": "china"
     },
     "492045": {
       "taxon_id": 492045,
@@ -26882,10 +26882,28 @@
     {
       "taxon_id": 470244,
       "name": "Sisyra nikkoana",
-      "old_observation": 195080473,
+      "old_observation": 180281240,
       "new_observation": 180281240,
       "new_photo": 313998636,
       "place": "西溪湿地东门北步道",
+      "license": "cc-by-nc"
+    },
+    {
+      "taxon_id": 491973,
+      "name": "Neope muirheadii",
+      "old_observation": 148698501,
+      "new_observation": 149326652,
+      "new_photo": 257303990,
+      "place": "Qingdao, CN-SD, CN",
+      "license": "cc-by-nc"
+    },
+    {
+      "taxon_id": 125574,
+      "name": "Graphium cloanthus",
+      "old_observation": 394356169,
+      "new_observation": 291119277,
+      "new_photo": 523763435,
+      "place": "中国云南省丽江市古城区",
       "license": "cc-by-nc"
     }
   ]

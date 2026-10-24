@@ -542,7 +542,7 @@
 | *Gerbathodes paupera* | 白纹哲夜蛾 | [366065832](https://www.inaturalist.org/observations/366065832) | (c) yy_never_air_force, some rights reserved (CC BY-NC) |
 | *Graphium agamemnon* | 统帅青凤蝶 | [99698887](https://www.inaturalist.org/observations/99698887) | (c) 航一帆, some rights reserved (CC BY-NC) |
 | *Graphium chironides* | 碎斑青凤蝶 | [333847611](https://www.inaturalist.org/observations/333847611) | (c) Benson Chan, some rights reserved (CC BY-NC) |
-| *Graphium cloanthus* | 宽带青凤蝶 | [394356169](https://www.inaturalist.org/observations/394356169) | (c) yy_never_air_force, some rights reserved (CC BY-NC) |
+| *Graphium cloanthus* | 宽带青凤蝶 | [291119277](https://www.inaturalist.org/observations/291119277) | (c) pikasu, some rights reserved (CC BY-NC) |
 | *Graphium sarpedon* | 青凤蝶 | [13799899](https://www.inaturalist.org/observations/13799899) | (c) robotpie, some rights reserved (CC BY-NC) |
 | *Hebomoia glaucippe* | 鹤顶粉蝶 | [187450743](https://www.inaturalist.org/observations/187450743) | (c) Nishant Purushottam Berde, some rights reserved (CC BY) |
 | *Hestina assimilis* | 黑脉蛱蝶 | [50633467](https://www.inaturalist.org/observations/50633467) | (c) robotpie, some rights reserved (CC BY-NC) |
@@ -586,7 +586,7 @@
 | *Monema flavescens* | 黄刺蛾 | [15290464](https://www.inaturalist.org/observations/15290464) | (c) Rachel V, some rights reserved (CC BY-NC) |
 | *Mycalesis francisca* | 拟稻眉眼蝶 | [88510497](https://www.inaturalist.org/observations/88510497) | (c) 金翼白眉, some rights reserved (CC BY-NC) |
 | *Mycalesis gotama* | 稻眉眼蝶 | [82534736](https://www.inaturalist.org/observations/82534736) | (c) Minyoung Song, some rights reserved (CC BY-NC) |
-| *Neope muirheadii* | 蒙链荫眼蝶 | [148698501](https://www.inaturalist.org/observations/148698501) | (c) Charles, some rights reserved (CC BY-NC) |
+| *Neope muirheadii* | 蒙链荫眼蝶 | [149326652](https://www.inaturalist.org/observations/149326652) | (c) Charles, some rights reserved (CC BY-NC) |
 | *Neptis hylas* | 中环蛱蝶 | [314544242](https://www.inaturalist.org/observations/314544242) | (c) Ujjal Kishor De, some rights reserved (CC BY-NC) |
 | *Neptis sappho* | 小环蛱蝶 | [208962332](https://www.inaturalist.org/observations/208962332) | no rights reserved |
 | *Notonagemia analis* | 大背天蛾 | [314725066](https://www.inaturalist.org/observations/314725066) | (c) 郭燕青, some rights reserved (CC BY-NC) |
