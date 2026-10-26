@@ -265,7 +265,7 @@
 | *Scathophaga stercoraria* | 黄粪蝇 | [86801200](https://www.inaturalist.org/observations/86801200) | (c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC) |
 | *Silbomyia hoeneana* | 华南闪迷蝇 | [386469776](https://www.inaturalist.org/observations/386469776) | (c) 天才贝斯手广町七深, some rights reserved (CC BY-NC) |
 | *Stomorhina obsoleta* | 不显口鼻蝇 | [309435001](https://www.inaturalist.org/observations/309435001) | (c) lucky fair, some rights reserved (CC BY-NC) |
-| *Synthesiomyia nudiseta* | 裸芒综蝇 | [101754225](https://www.inaturalist.org/observations/101754225) | (c) portioid, some rights reserved (CC BY) |
+| *Synthesiomyia nudiseta* | 裸芒综蝇 | [262777889](https://www.inaturalist.org/observations/262777889) | (c) 游魂, some rights reserved (CC BY-NC) |
 | *Syritta pipiens* | 黄环粗股蚜蝇 | [72442711](https://www.inaturalist.org/observations/72442711) | (c) Tiago Carrapiço, some rights reserved (CC BY-NC) |
 | *Tipula nova* | 新雅大蚊 | [214909938](https://www.inaturalist.org/observations/214909938) | (c) Timur Kalininsky, some rights reserved (CC BY) |
 | *Triceratopyga calliphoroides* | 叉丽蝇 | [164608808](https://www.inaturalist.org/observations/164608808) | (c) Jinmin Li, some rights reserved (CC BY-NC-SA) |
@@ -400,7 +400,7 @@
 | *Bombus lantschouensis* | 兰州熊蜂 | [173007773](https://www.inaturalist.org/observations/173007773) | (c) huangmingpan, some rights reserved (CC BY-NC) |
 | *Bombus opulentus* | 富丽熊蜂 | [227215781](https://www.inaturalist.org/observations/227215781) | (c) ingester, some rights reserved (CC BY-NC) |
 | *Bombus pyrosoma* | 火红熊蜂 | [37424350](https://www.inaturalist.org/observations/37424350) | (c) Homemountain/Shan Gui, some rights reserved (CC BY-NC) |
-| *Brachyponera chinensis* | 中华短猛蚁 | [235539435](https://www.inaturalist.org/observations/235539435) | (c) David Grunicke, some rights reserved (CC BY-NC) |
+| *Brachyponera chinensis* | 中华短猛蚁 | [310262603](https://www.inaturalist.org/observations/310262603) | (c) Haocong_Cat, some rights reserved (CC BY-NC) |
 | *Camponotus fuscivillosus* | 褐毛弓背蚁 | [397715903](https://www.inaturalist.org/observations/397715903) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Camponotus japonicus* | 日本弓背蚁 | [403853915](https://www.inaturalist.org/observations/403853915) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Camponotus nicobarensis* | 尼科巴弓背蚁 | [245935849](https://www.inaturalist.org/observations/245935849) | (c) Jonghyun Park, some rights reserved (CC BY) |
@@ -464,7 +464,7 @@
 | *Tachypompilus analis* | 红尾捷蛛蜂 | [54039497](https://www.inaturalist.org/observations/54039497) | (c) Yuwaraj Gurjar, some rights reserved (CC BY-NC) |
 | *Tapinoma melanocephalum* | 黑头酸臭蚁 | [105846411](https://www.inaturalist.org/observations/105846411) | (c) Roman Prokhorov, some rights reserved (CC BY-NC) |
 | *Tetramorium bicarinatum* | 双隆骨铺道蚁 | [259603492](https://www.inaturalist.org/observations/259603492) | (c) Hiroya Kidoguchi, some rights reserved (CC BY-NC) |
-| *Tetramorium tsushimae* | 津岛铺道蚁 | [23926549](https://www.inaturalist.org/observations/23926549) | (c) chrischisholm, some rights reserved (CC BY-NC) |
+| *Tetramorium tsushimae* | 津岛铺道蚁 | [372182467](https://www.inaturalist.org/observations/372182467) | (c) L Steven, some rights reserved (CC BY-NC) |
 | *Tetraponera rufonigra* | 红黑细长蚁 | [247889089](https://www.inaturalist.org/observations/247889089) | (c) mark spicer, some rights reserved (CC BY-NC) |
 | *Vespa crabro* | 黄边胡蜂 | [57703975](https://www.inaturalist.org/observations/57703975) | (c) hammockbythebeach, some rights reserved (CC BY-NC) |
 | *Vespa mandarinia* | 金环胡蜂 | [196763251](https://www.inaturalist.org/observations/196763251) | (c) Karla Salp, some rights reserved (CC BY-NC) |
@@ -594,7 +594,7 @@
 | *Orybina regalis* | 艳双点螟 | [372623236](https://www.inaturalist.org/observations/372623236) | (c) yy_never_air_force, some rights reserved (CC BY-NC) |
 | *Ourapteryx nivea* | 雪尾尺蛾 | [410061301](https://www.inaturalist.org/observations/410061301) | (c) yy_never_air_force, some rights reserved (CC BY-NC) |
 | *Pachliopta aristolochiae* | 红珠凤蝶 | [190706916](https://www.inaturalist.org/observations/190706916) | (c) pelagicgraf, some rights reserved (CC BY-NC) |
-| *Papilio bianor* | 碧凤蝶 | [394692593](https://www.inaturalist.org/observations/394692593) | (c) yy_never_air_force, some rights reserved (CC BY-NC) |
+| *Papilio bianor* | 碧凤蝶 | [154401177](https://www.inaturalist.org/observations/154401177) | (c) hilyshao, some rights reserved (CC BY-NC) |
 | *Papilio clytia* | 斑凤蝶 | [312833975](https://www.inaturalist.org/observations/312833975) | (c) Muhtasim, some rights reserved (CC BY-NC) |
 | *Papilio elwesi* | 宽尾凤蝶 | [209239573](https://www.inaturalist.org/observations/209239573) | (c) 张艺言, some rights reserved (CC BY-NC) |
 | *Papilio helenus* | 玉斑凤蝶 | [98203543](https://www.inaturalist.org/observations/98203543) | (c) kishore T, some rights reserved (CC BY-NC) |
@@ -638,7 +638,7 @@
 | *Stibochiona nicea* | 素饰蛱蝶 | [403870087](https://www.inaturalist.org/observations/403870087) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Symbrenthia lilaea* | 散纹盛蛱蝶 | [90370293](https://www.inaturalist.org/observations/90370293) | (c) Abhinav Thakur, some rights reserved (CC BY) |
 | *Tagiades tethys* | 黑裙弄蝶 | [298853380](https://www.inaturalist.org/observations/298853380) | (c) arbarokampo, some rights reserved (CC BY-NC) |
-| *Taraka hamada* | 蚜灰蝶 | [33933249](https://www.inaturalist.org/observations/33933249) | (c) 李明泰, some rights reserved (CC BY-NC) |
+| *Taraka hamada* | 蚜灰蝶 | [63300713](https://www.inaturalist.org/observations/63300713) | (c) 小铖/Smalltown, some rights reserved (CC BY-NC) |
 | *Telchinia issoria* | 苎麻珍蝶 | [403849093](https://www.inaturalist.org/observations/403849093) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Telinga sangaica* | 僧袈眉眼蝶 | [397715902](https://www.inaturalist.org/observations/397715902) | (c) CG1ns3ct, some rights reserved (CC BY-NC) |
 | *Theretra japonica* | 雀纹天蛾 | [287041817](https://www.inaturalist.org/observations/287041817) | (c) Mason Holum, some rights reserved (CC BY) |
@@ -657,7 +657,7 @@
 | *Ypthima argus* | 阿矍眼蝶 | [403224090](https://www.inaturalist.org/observations/403224090) | (c) gg_copen, some rights reserved (CC BY-NC) |
 | *Ypthima multistriata* | 密纹矍眼蝶 | [320824751](https://www.inaturalist.org/observations/320824751) | (c) chabai, some rights reserved (CC BY-NC) |
 | *Zeltus amasa* | 珍灰蝶 | [75130642](https://www.inaturalist.org/observations/75130642) | (c) 刘光裕 Liu Guangyu, some rights reserved (CC BY-NC) |
-| *Zemeros flegyas* | 波蚬蝶 | [330333430](https://www.inaturalist.org/observations/330333430) | (c) Ujjal Kishor De, some rights reserved (CC BY-NC) |
+| *Zemeros flegyas* | 波蚬蝶 | [166951038](https://www.inaturalist.org/observations/166951038) | (c) simbaxx, some rights reserved (CC BY-NC) |
 | *Zizina otis* | 毛眼灰蝶 | [336219751](https://www.inaturalist.org/observations/336219751) | (c) Ujjal Kishor De, some rights reserved (CC BY-NC) |
 | *Ctenolepisma longicaudatum* | 灰衣鱼 | [1685980](http://www.inaturalist.org/observations/1685980) | (c) Jorge Schlemmer, some rights reserved (CC BY-NC) |
 | *Lepisma saccharinum* | 衣鱼 | [304068200](https://www.inaturalist.org/observations/304068200) | (c) bsteer, some rights reserved (CC BY-NC) |

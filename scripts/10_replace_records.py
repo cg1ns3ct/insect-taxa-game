@@ -31,6 +31,12 @@ REPLACEMENTS = {
     125574: (291119277, 523763435),  # Graphium cloanthus
     132104: (380559335, 696241472),  # Tenodera aridifolia
     1593971: (307560503, 554771082),  # Lasioglossum eidmanni
+    68352: (154401177, 266784348),  # Papilio bianor
+    146908: (166951038, 289244860),  # Zemeros flegyas
+    329907: (262777889, 471948749),  # Synthesiomyia nudiseta
+    319451: (372182467, 680084385),  # Tetramorium tsushimae
+    367034: (310262603, 559938842),  # Brachyponera chinensis
+    154430: (63300713, 101568557),  # Taraka hamada
 }
 
 CHINA_RE = re.compile(

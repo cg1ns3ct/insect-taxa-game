@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:14:47.963889+00:00",
+  "generated_at": "2026-10-26T14:31:24.892194+00:00",
   "counts": {
     "records": 803,
     "manifest": 803,
@@ -316,10 +316,12 @@
     },
     {
       "taxon_id": 68352,
-      "photo_id": 723600586,
-      "path": "images/723600586.webp",
-      "bytes": 143260,
-      "status": "cached"
+      "photo_id": 266784348,
+      "path": "images/266784348.webp",
+      "width": 683,
+      "height": 1024,
+      "bytes": 91804,
+      "status": "ok"
     },
     {
       "taxon_id": 68365,
@@ -1226,10 +1228,12 @@
     },
     {
       "taxon_id": 146908,
-      "photo_id": 598980494,
-      "path": "images/598980494.webp",
-      "bytes": 110564,
-      "status": "cached"
+      "photo_id": 289244860,
+      "path": "images/289244860.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 132072,
+      "status": "ok"
     },
     {
       "taxon_id": 146923,
@@ -1282,10 +1286,12 @@
     },
     {
       "taxon_id": 154430,
-      "photo_id": 53350143,
-      "path": "images/53350143.webp",
-      "bytes": 154916,
-      "status": "cached"
+      "photo_id": 101568557,
+      "path": "images/101568557.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 25340,
+      "status": "ok"
     },
     {
       "taxon_id": 154515,
@@ -1569,10 +1575,12 @@
     },
     {
       "taxon_id": 319451,
-      "photo_id": 37014256,
-      "path": "images/37014256.webp",
-      "bytes": 225194,
-      "status": "cached"
+      "photo_id": 680084385,
+      "path": "images/680084385.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 111932,
+      "status": "ok"
     },
     {
       "taxon_id": 319910,
@@ -1786,10 +1794,12 @@
     },
     {
       "taxon_id": 329907,
-      "photo_id": 169973410,
-      "path": "images/169973410.webp",
-      "bytes": 133666,
-      "status": "cached"
+      "photo_id": 471948749,
+      "path": "images/471948749.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 83310,
+      "status": "ok"
     },
     {
       "taxon_id": 333067,
@@ -2542,10 +2552,12 @@
     },
     {
       "taxon_id": 367034,
-      "photo_id": 418899492,
-      "path": "images/418899492.webp",
-      "bytes": 330378,
-      "status": "cached"
+      "photo_id": 559938842,
+      "path": "images/559938842.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 269740,
+      "status": "ok"
     },
     {
       "taxon_id": 367056,
@@ -5491,10 +5503,8 @@
       "taxon_id": 1593971,
       "photo_id": 554771082,
       "path": "images/554771082.webp",
-      "width": 1024,
-      "height": 773,
       "bytes": 27940,
-      "status": "ok"
+      "status": "cached"
     },
     {
       "taxon_id": 1594925,
